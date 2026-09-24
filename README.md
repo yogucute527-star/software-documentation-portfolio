@@ -21,6 +21,11 @@ This repository includes the following documentation:
 - [Usage Guide](docs/usage-guide.md)
 - [Workflow](docs/workflow.md)
 - [API Reference](docs/api-reference.md)
+- [Troubleshooting](docs/troubleshooting.md)
+- [FAQ](docs/faq.md)
+- [Contributing](docs/contributing.md)
+- [Documentation Structure](docs/documentation-structure.md)
+- [Sources](docs/sources.md)
 
 ## Documentation Structure
 
